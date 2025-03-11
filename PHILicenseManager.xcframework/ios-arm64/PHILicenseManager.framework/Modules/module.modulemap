@@ -1,0 +1,6 @@
+framework module PHILicenseManager {
+  umbrella header "PHILicenseManager.h"
+  export *
+
+  module * { export * }
+}
